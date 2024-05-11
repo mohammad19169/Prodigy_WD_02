@@ -1,0 +1,35 @@
+.stopwatch {
+    text-align: center;
+   margin: 200px 400px ;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center ;
+    justify-content: center;
+    background-image: url(backimage.jpg);
+    
+}
+
+.display {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
+.laps {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lap-item {
+    margin-bottom: 5px;
+}
+body{
+    background-color:beige;
+}
